@@ -1,12 +1,8 @@
 # CARE Challenge System – Java Coursework Project
 
-![Java Eclipse/IntelliJ Project](https://img.shields.io/badge/Java-Eclipse%2FIntelliJ-brightgreen) ![University Project](https://img.shields.io/badge/University-Coursework-blueviolet)
-
 A Java-based simulation/management system for the **CARE (Challenge Arena Response Engine)** coursework project. This application processes challenge data from `challengesAM.txt` (e.g., magic/fight/mystery quests against opponents like Borg, Huns, Ferengi) and handles scoring, player matching, or simulation logic. Built with Eclipse/IntelliJ hybrid setup for easy import.
 
 Developed as part of a University of Hertfordshire programming module. Demonstrates file I/O, data parsing, OOP design, and testing with JUnit.
-
-**Repository Link**: [haseeb099/CARE-Challenge-System-Java](https://github.com/haseeb099/CARE-Challenge-System-Java)
 
 ## 🎯 Project Overview
 
