@@ -2,8 +2,6 @@
 
 A Java-based simulation/management system for the **CARE (Challenge Arena Response Engine)** coursework project. This application processes challenge data from `challengesAM.txt` (e.g., magic/fight/mystery quests against opponents like Borg, Huns, Ferengi) and handles scoring, player matching, or simulation logic. Built with Eclipse/IntelliJ hybrid setup for easy import.
 
-Developed as part of a University of Hertfordshire programming module. Demonstrates file I/O, data parsing, OOP design, and testing with JUnit.
-
 ## 🎯 Project Overview
 
 The CARE system reads challenge data from a CSV-like file (`challengesAM.txt`) and simulates/processes quests:
@@ -52,7 +50,7 @@ CARE-Challenge-System-Java/
 ### Quick Start
 1. **Clone the Repo**:
    ```bash
-   git clone https://github.com/haseeb099/CARE-Challenge-System-Java.git
+   git clone
    cd CARE-Challenge-System-Java
 2.Import & Run in Eclipse:
 File → Import → Existing Projects into Workspace → Select folder → Finish.
